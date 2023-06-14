@@ -1,0 +1,10 @@
+name = "Orchid"
+uuid = "65b37873-18c8-4f67-ad9c-7e8325cd4959"
+authors = ["Sebastian Dalleiger <sdalleig@mpi-inf.mpg.de>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+OptimalTransport = "7e02d93a-ae51-4f58-b602-d97af76e3b33"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+ThreadsX = "ac1d9e8a-700a-412c-b207-f0111f4b6c0d"

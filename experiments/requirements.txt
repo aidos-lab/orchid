@@ -1,0 +1,14 @@
+# requirements from orchid experiments
+numpy
+scipy
+sklearn
+pymp-pypi
+POT
+signet @ git+https://github.com/alan-turing-institute/SigNet@master
+# doi.org/10.5281/zenodo.1435036
+# requirements from other parts of the code
+jupyterlab
+matplotlib
+pandas
+seaborn
+black[jupyter]
